@@ -2,7 +2,6 @@
 
 ## TOOLKITTEN
 
-A toolkit for #1millionwomentotech community.
 
 # How to Contribute
 
